@@ -4,7 +4,7 @@ import java.util.*;
 public class BetaCalculator {
 
     public static void main(String[] args) throws IOException {
-        String stockFile = "stock.csv"; // Path to stock CSV
+        String stockFile = "AAPL.csv"; // Path to stock CSV
         String benchmarkFile = "benchmark.csv"; // Path to benchmark CSV
 
         List<Double> stockPrices = readPricesFromCsv(stockFile);
