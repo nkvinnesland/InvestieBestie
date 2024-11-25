@@ -29,6 +29,7 @@ How It Works
 	3.	OpenAI generates a plain-English explanation of the Beta rating’s implications, empowering users with knowledge about potential risks and returns.
 
 Libraries/Frameworks:
+
 	•	Backend:
 	•	Spring Boot: Java framework for building the backend RESTful API.
 	•	Spring Data JPA: For interacting with the database (if applicable).
