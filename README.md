@@ -7,6 +7,7 @@ Empowering New Investors
 InvestieBestie is designed for individuals with no prior experience or education in investing. By simplifying complex financial concepts, this tool helps aspiring investors build confidence in navigating the stock market.
 
 InvestieBestie is built for individuals who:
+
 	•	Have little to no experience in investing.
 	•	Want to learn about the stock market in an easy-to-understand way.
 	•	Need actionable insights to make informed financial decisions.
@@ -39,9 +40,3 @@ Libraries/Frameworks:
 	•	Jackson: For parsing JSON data in the backend.
 	•	Maven/Gradle: For dependency management and build automation in the Java Spring project.
 
-Target Audience
-
-InvestieBestie is built for individuals who:
-	•	Have little to no experience in investing.
-	•	Want to learn about the stock market in an easy-to-understand way.
-	•	Need actionable insights to make informed financial decisions.
